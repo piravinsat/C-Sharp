@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame2", "WindowsGame2\WindowsGame2\WindowsGame2.csproj", "{AB639ED0-FB35-44F3-A8D7-8DA662F52D39}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "WindowsGame2Content", "WindowsGame2\WindowsGame2Content\WindowsGame2Content.contentproj", "{EDE9A3C0-F6E9-42C2-AA80-73B534FD9797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB639ED0-FB35-44F3-A8D7-8DA662F52D39}.Debug|x86.ActiveCfg = Debug|x86
+		{AB639ED0-FB35-44F3-A8D7-8DA662F52D39}.Debug|x86.Build.0 = Debug|x86
+		{AB639ED0-FB35-44F3-A8D7-8DA662F52D39}.Release|x86.ActiveCfg = Release|x86
+		{AB639ED0-FB35-44F3-A8D7-8DA662F52D39}.Release|x86.Build.0 = Release|x86
+		{EDE9A3C0-F6E9-42C2-AA80-73B534FD9797}.Debug|x86.ActiveCfg = Debug|x86
+		{EDE9A3C0-F6E9-42C2-AA80-73B534FD9797}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

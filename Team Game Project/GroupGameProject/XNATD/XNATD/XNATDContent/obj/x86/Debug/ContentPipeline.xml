@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>path.png</Source>
+      <Name>path</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\matthew\documents\visual studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\path.xnb</Output>
+      <Time>2012-02-08T11:08:28.0763633+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ground.png</Source>
+      <Name>ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\matthew\documents\visual studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\ground.xnb</Output>
+      <Time>2012-02-07T16:42:40.7881937+00:00</Time>
+    </Item>
+    <Item>
+      <Source>black.png</Source>
+      <Name>black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\matthew\documents\visual studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\black.xnb</Output>
+      <Time>2012-02-07T16:32:16.736019+00:00</Time>
+    </Item>
+    <Item>
+      <Source>path_horizontal.png</Source>
+      <Name>path_horizontal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\path_horizontal.xnb</Output>
+      <Time>2012-02-08T11:09:00.4902173+00:00</Time>
+    </Item>
+    <Item>
+      <Source>path_vertical.png</Source>
+      <Name>path_vertical</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\path_vertical.xnb</Output>
+      <Time>2012-02-08T11:09:14.3940126+00:00</Time>
+    </Item>
+    <Item>
+      <Source>path_corner_down_to_left.png</Source>
+      <Name>path_corner_down_to_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\path_corner_down_to_left.xnb</Output>
+      <Time>2012-02-08T11:24:51.0435858+00:00</Time>
+    </Item>
+    <Item>
+      <Source>path_corner_down_to_right.png</Source>
+      <Name>path_corner_down_to_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\path_corner_down_to_right.xnb</Output>
+      <Time>2012-02-08T11:24:28.0952733+00:00</Time>
+    </Item>
+    <Item>
+      <Source>path_corner_up_to_left.png</Source>
+      <Name>path_corner_up_to_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\path_corner_up_to_left.xnb</Output>
+      <Time>2012-02-08T11:25:34.3150608+00:00</Time>
+    </Item>
+    <Item>
+      <Source>path_corner_up_to_right.png</Source>
+      <Name>path_corner_up_to_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\path_corner_up_to_right.xnb</Output>
+      <Time>2012-02-08T11:25:57.6173936+00:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy.png</Source>
+      <Name>enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\enemy.xnb</Output>
+      <Time>2012-02-10T12:33:11.6938778+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lifebar_red.png</Source>
+      <Name>lifebar_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\lifebar_red.xnb</Output>
+      <Time>2012-02-17T10:23:40.7082862+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lifebar_green.png</Source>
+      <Name>lifebar_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\lifebar_green.xnb</Output>
+      <Time>2012-02-17T10:24:06.7887779+00:00</Time>
+    </Item>
+    <Item>
+      <Source>default_button.png</Source>
+      <Name>default_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\default_button.xnb</Output>
+      <Time>2012-02-19T16:00:10.0180013+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor_pointer.png</Source>
+      <Name>cursor_pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\cursor_pointer.xnb</Output>
+      <Time>2012-02-08T16:22:26.620884+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor_hand.png</Source>
+      <Name>cursor_hand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\cursor_hand.xnb</Output>
+      <Time>2012-02-19T20:21:03.8111149+00:00</Time>
+    </Item>
+    <Item>
+      <Source>standard_tower.png</Source>
+      <Name>standard_tower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\standard_tower.xnb</Output>
+      <Time>2012-02-20T10:32:49.1184991+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tower_placeholder.png</Source>
+      <Name>tower_placeholder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\tower_placeholder.xnb</Output>
+      <Time>2012-02-20T10:31:45.086044+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tower_placeholder_red.png</Source>
+      <Name>tower_placeholder_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\tower_placeholder_red.xnb</Output>
+      <Time>2012-02-20T10:31:27.1304125+00:00</Time>
+    </Item>
+    <Item>
+      <Source>spanner.png</Source>
+      <Name>spanner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\spanner.xnb</Output>
+      <Time>2012-02-20T11:21:05.8004436+00:00</Time>
+    </Item>
+    <Item>
+      <Source>basic_projectile.png</Source>
+      <Name>basic_projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\basic_projectile.xnb</Output>
+      <Time>2012-02-21T10:13:14.772756+00:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2012-02-21T11:21:19.9540296+00:00</Time>
+    </Item>
+    <Item>
+      <Source>blood_splat.png</Source>
+      <Name>blood_splat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\blood_splat.xnb</Output>
+      <Time>2012-02-21T12:45:32.9366589+00:00</Time>
+    </Item>
+    <Item>
+      <Source>beast_1.png</Source>
+      <Name>beast_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\beast_1.xnb</Output>
+      <Time>2012-02-22T18:53:40.5324561+00:00</Time>
+    </Item>
+    <Item>
+      <Source>beast_2.png</Source>
+      <Name>beast_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\beast_2.xnb</Output>
+      <Time>2012-02-22T18:39:53.868359+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATDContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATDContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Matthew\Documents\Visual Studio 2010\Projects\XNATD\XNATD\XNATD\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-01-25T21:45:58.9153829+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

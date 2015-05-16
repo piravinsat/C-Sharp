@@ -1,0 +1,9 @@
+List of Alien Items
+
+Aliens (The aliens without legs, bounce)
+Turrets like from Portal - Done Sprite
+Alien that has an eye - very venurable to laser towers
+Some explode, some melt
+Different background sprite (Crates and Rocks)
+Wacky Art Style
+Spaceship in the base - just to show - Done

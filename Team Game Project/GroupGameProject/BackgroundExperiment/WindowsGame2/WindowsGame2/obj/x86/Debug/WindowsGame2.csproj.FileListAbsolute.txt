@@ -1,0 +1,17 @@
+c:\users\lewis\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MoonCrater.xnb
+c:\users\lewis\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+c:\users\lewis\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+c:\users\lewis\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lewis\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\lewis\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+c:\users\lewis\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+c:\users\lewis\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MoonSpecks.xnb
+C:\Users\Lewis\Dropbox\GroupGameProject\BackgroundExperiment\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MoonCrater.xnb
+C:\Users\Lewis\Dropbox\GroupGameProject\BackgroundExperiment\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MoonSpecks.xnb
+C:\Users\Lewis\Dropbox\GroupGameProject\BackgroundExperiment\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+C:\Users\Lewis\Dropbox\GroupGameProject\BackgroundExperiment\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+C:\Users\Lewis\Dropbox\GroupGameProject\BackgroundExperiment\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lewis\Dropbox\GroupGameProject\BackgroundExperiment\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lewis\Dropbox\GroupGameProject\BackgroundExperiment\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+C:\Users\Lewis\Dropbox\GroupGameProject\BackgroundExperiment\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+C:\Users\Lewis\Dropbox\GroupGameProject\BackgroundExperiment\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ShipTest.xnb

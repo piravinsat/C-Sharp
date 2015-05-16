@@ -1,0 +1,35 @@
+GAME PLAN
+
+Tower Defense, top down shooter, combined.
+We will have a man controlled by the user, who has to place towers to shoot at 
+enemies. The man can also shoot at enemies. Enemies will try and attack the 
+players base. Some enemies will try and attack towers or the man.
+
+So what class's do we need?
+Player, bullet, tower, basicTower, splashTower, electricTower (etc), Mob, various
+enemies that extend the basic Mob class, perhaps a resourceManager class to hold 
+all textures in, Tile, level, Base, BaseItem (the things to buy)
+
+Tower, Tile, and Mob are superclass's that more detailed class's will extend.
+The main class should be solely used for updating/ removing objects... therefore
+each class will have its own individual update and draw method.
+
+The spawners will be special tiles where enemies come from.
+Towers have health. The player does not have health, but can be slowed down.
+
+Controls are WASD to move player, and space to shoot in direction of movement.
+Z to pick up and place a tower/ acquire a ugrade.
+
+As the game goes on, more spawners will appear in random places?
+
+Enemy ideas? (Add your own)
+Robots, aliens, zombies, mummies, Beavis...
+
+Name of the game? (please add your ideas here)
+
+
+Also should towers be allowed to be placed anywhere, or should we have a grid? 
+Grids will be useful to implement a pathfinding algorithm, but no grid makes the
+game free-er...
+
+Any questions, put 'em here?
