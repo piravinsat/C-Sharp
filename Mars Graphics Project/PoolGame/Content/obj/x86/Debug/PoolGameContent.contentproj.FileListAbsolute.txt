@@ -1,0 +1,3 @@
+C:\Users\Piravin\Downloads\PoolGame\PoolGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Piravin\Documents\Visual Studio 2010\GraphicsProject\PoolGame\PoolGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Piravin\Documents\My Dropbox\PoolGame\PoolGame\Content\obj\x86\Debug\PoolGameContent.contentprojResolveAssemblyReference.cache
