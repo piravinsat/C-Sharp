@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>path2987smaller.png</Source>
+      <Name>path2987smaller</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Piravin\Documents\My Dropbox\IndividualGame\Beavis&amp;Butthead\BouncingCircles\BouncingCircles\bin\x86\Debug\Content\path2987smaller.xnb</Output>
+      <Time>2012-01-20T12:32:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>faces.png</Source>
+      <Name>faces</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Piravin\Documents\My Dropbox\IndividualGame\Beavis&amp;Butthead\BouncingCircles\BouncingCircles\bin\x86\Debug\Content\faces.xnb</Output>
+      <Time>2012-01-26T22:56:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>CharlieBRight.png</Source>
+      <Name>CharlieBRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Piravin\Documents\My Dropbox\IndividualGame\Beavis&amp;Butthead\BouncingCircles\BouncingCircles\bin\x86\Debug\Content\CharlieBRight.xnb</Output>
+      <Time>2012-01-26T23:26:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>CharlieBLeft.png</Source>
+      <Name>CharlieBLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Piravin\Documents\My Dropbox\IndividualGame\Beavis&amp;Butthead\BouncingCircles\BouncingCircles\bin\x86\Debug\Content\CharlieBLeft.xnb</Output>
+      <Time>2012-01-26T23:26:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>basket_ball_court.jpg</Source>
+      <Name>basket_ball_court</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Piravin\Documents\My Dropbox\IndividualGame\Beavis&amp;Butthead\BouncingCircles\BouncingCircles\bin\x86\Debug\Content\basket_ball_court.xnb</Output>
+      <Time>2012-01-26T23:45:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ShipTest.png</Source>
+      <Name>ShipTest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Piravin\Documents\My Dropbox\IndividualGame\Beavis&amp;Butthead\BouncingCircles\BouncingCircles\bin\x86\Debug\Content\ShipTest.xnb</Output>
+      <Time>2012-02-22T10:21:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet.png</Source>
+      <Name>Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Piravin\Documents\My Dropbox\IndividualGame\Beavis&amp;Butthead\BouncingCircles\BouncingCircles\bin\x86\Debug\Content\Bullet.xnb</Output>
+      <Time>2012-02-22T10:23:40+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3372DF7D-B105-4C3B-9C10-40FE7A192D23}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Piravin\Documents\My Dropbox\IndividualGame\Beavis&amp;Butthead\BouncingCircles\BouncingCirclesContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Piravin\Documents\My Dropbox\IndividualGame\Beavis&amp;Butthead\BouncingCircles\BouncingCircles\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Piravin\Documents\My Dropbox\IndividualGame\Beavis&amp;Butthead\BouncingCircles\BouncingCircles\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Piravin\Documents\My Dropbox\IndividualGame\Beavis&amp;Butthead\BouncingCircles\BouncingCircles\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-21T23:35:04.5217376+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

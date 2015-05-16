@@ -1,0 +1,5 @@
+E:\Visual Studio 2010\Projects\Beavis&Butthead\BouncingCircles\BouncingCirclesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Piravin\Documents\Visual Studio 2010\Projects\Beavis&Butthead\BouncingCircles\BouncingCirclesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lewis\Documents\Visual Studio 2010\Projects\Beavis&Butthead\BouncingCircles\BouncingCirclesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Piravin\Documents\Beavis&Butthead\BouncingCircles\BouncingCirclesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Piravin\Documents\My Dropbox\IndividualGame\Beavis&Butthead\BouncingCircles\BouncingCirclesContent\obj\x86\Debug\BeavisButtheadContent.contentprojResolveAssemblyReference.cache

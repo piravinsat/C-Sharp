@@ -1,0 +1,2 @@
+h:\visual studio 2010\Projects\BouncingCircles\BouncingCircles\BouncingCirclesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Piravin\Documents\Visual Studio 2010\Projects\BouncingCircles\BouncingCircles\BouncingCirclesContent\obj\x86\Debug\ResolveAssemblyReference.cache

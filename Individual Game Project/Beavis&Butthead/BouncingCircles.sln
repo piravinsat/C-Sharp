@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeavisButthead", "BouncingCircles\BouncingCircles\BeavisButthead.csproj", "{63893390-44F3-4BC0-A749-6E19F3B70461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeavisButtheadContent", "BouncingCircles\BouncingCirclesContent\BeavisButtheadContent.contentproj", "{3372DF7D-B105-4C3B-9C10-40FE7A192D23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63893390-44F3-4BC0-A749-6E19F3B70461}.Debug|x86.ActiveCfg = Debug|x86
+		{63893390-44F3-4BC0-A749-6E19F3B70461}.Debug|x86.Build.0 = Debug|x86
+		{63893390-44F3-4BC0-A749-6E19F3B70461}.Release|x86.ActiveCfg = Release|x86
+		{63893390-44F3-4BC0-A749-6E19F3B70461}.Release|x86.Build.0 = Release|x86
+		{3372DF7D-B105-4C3B-9C10-40FE7A192D23}.Debug|x86.ActiveCfg = Debug|x86
+		{3372DF7D-B105-4C3B-9C10-40FE7A192D23}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
